@@ -16,12 +16,12 @@ Use Python's data analysis methods to discover the characteristics of the people
 6. Conclusions and recommendations.
 
 ### Data file description
-<b>total_bill column:</b> represents the amount of consumption,
-<b>tip column:</b> represents the tip amount, 
-<b>sex column:</b> is the gender, 
-<b>smoker column:</b> represents whether or not to smoke,
-<b>day column:</b> the day of the week, 
-<b>time column:</b> represents the meal time, 
-<b>size column:</b>  represents the number of people to eat
+<b>total_bill column:</b> represents the amount of consumption <br>
+<b>tip column:</b> represents the tip amount <br> 
+<b>sex column:</b> is the gender <br> 
+<b>smoker column:</b> represents whether or not to smoke <br>
+<b>day column:</b> the day of the week <br> 
+<b>time column:</b> represents the meal time <br> 
+<b>size column:</b>  represents the number of people to eat.
 
 
